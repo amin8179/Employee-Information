@@ -38,7 +38,8 @@ Key Sections
 Data Loading and Cleaning: Loads the dataset and manages missing values.
 Exploratory Data Analysis (EDA): Generates visualizations for age, salary distributions, and demographic trends.
 Conclusions: Summarizes findings and suggests insights.
-Requirements
+
+**Requirements**
 Python 3.x
 Jupyter Notebook
 Required libraries: pandas, matplotlib, seaborn
