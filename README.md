@@ -41,5 +41,6 @@ Getting Started
 Load Employee.csv into the same directory as Project_employee.ipynb.
 Open Project_employee.ipynb in Jupyter Notebook.
 Run each cell sequentially to perform the analysis.
-License
+
+**License**
 This project is for educational and analytical purposes.
