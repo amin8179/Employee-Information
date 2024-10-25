@@ -1,5 +1,7 @@
 **Employee Data Analysis Project**
-Overview
+
+
+**Overview**
 This project analyzes an employee dataset (Employee.csv) to explore demographic and salary trends across various companies and locations. It provides insights into employee age distribution, salary ranges, and gender distribution, with missing values in some fields. The analysis is conducted in the Project_employee.ipynb Jupyter notebook.
 
 **Dataset: Employee.csv**
