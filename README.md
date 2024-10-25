@@ -19,10 +19,15 @@ This data enables analysis of demographic information, salary distribution, and 
 Some columns contain missing values:
 
 Company: 8 missing entries
+
 Age: 18 missing entries
+
 Salary: 24 missing entries
+
 Place: 14 missing entries
+
 Jupyter Notebook: Project_employee.ipynb
+
 **Purpose**
 This notebook performs an exploratory analysis on the employee dataset, including:
 
